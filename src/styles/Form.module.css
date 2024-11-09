@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid rgb(180, 218, 194);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #7ec3df;
+    color: rgb(3, 3, 3);
+}
+
+.text{
+    border: 2px solid rgb(180, 218, 194);
+    border-radius: 10px;
+}
